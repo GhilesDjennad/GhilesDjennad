@@ -1,74 +1,80 @@
-# 👋 Hi, I’m Ghiles Djennad
+# 👋 Hi, I’m **Ghiles Djennad**
 
-🎓 **Computer Science student (3rd year)** at the University of Picardie Jules Verne (Amiens, France).  
-💻 Passionate about **web development**, **mobile development**, and **artificial intelligence**. I regularly build projects to improve my skills and explore new technologies.
-
----
-
-## 🚀 Recent Projects
-
-### 📘 Bookstore E-commerce Website (2025)
-- **Technologies:** Next.js, Supabase  
-- Product management, authentication, and a modern UI.
-
-### 🤟 Sign Language to Text Translation (2025)
-- **Technologies:** Next.js, WebRTC, Socket.IO, Python, TensorFlow, MediaPipe  
-- **LSTM model** generating real-time subtitles integrated into video calls.
-
-### 📱 Gym Mobile Application (2023)
-- **Technologies:** Flutter, SQLite  
-- Manages memberships, sessions, and provides a clean mobile interface.
-
-### 🧩 Enterprise Management System (2022)
-- **Technologies:** Java, MySQL  
-- Full CRUD operations, user management, and desktop-style interface.
+🎓 **3rd-year Computer Science student** at the University of Picardie Jules Verne (Amiens, France).  
+💻 Passionate about **Web Development**, **Mobile Development**, and **Artificial Intelligence**.  
+I enjoy building meaningful projects that help me grow technically while solving real-world problems.
 
 ---
 
-## 🧠 Technical Skills
+## 🔧 **Languages & Tools**
 
-### 💻 Programming Languages
-- Python  
-- Java  
-- C  
-- JavaScript  
-- TypeScript  
-- Dart
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-### 🌐 Web Development
-- Next.js  
-- React  
-- Node.js  
-- WebRTC  
-- Socket.IO
+          
+<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img alt="Dart" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 
-### 📱 Mobile Development
-- Flutter (Dart)  
-- SQLite  
-- Hive
+<img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
-### 🤖 AI & Data
-- TensorFlow  
-- MediaPipe  
-- OpenCV   
-- Hive  
+<img alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+                    
+<img alt="Socket.IO" width="40px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg"/>
 
-### 🗄️ Databases
-- MySQL  
-- Supabase  
-- Firebase  
-- SQLite
+<img alt="Flutter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+
+<img alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img alt="OpenCV" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+
+<img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img alt="Prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+
+<img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />   
+
+<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+</div>
+
+<br/>
 
 ---
 
-## 🌟 Personal Qualities
+## 🚀 **Recent Projects**
+
+### 📘 **Bookstore E-commerce Website (2025)**
+- **Tech:** Next.js, Supabase  
+- Product management, authentication, and modern UI design.
+
+### 🤟 **Sign Language to Text Translation (2025)**
+- **Tech:** Next.js, WebRTC, Socket.IO, Python, TensorFlow, MediaPipe  
+- Real-time subtitle generation using an **LSTM deep learning model**.
+
+### 📱 **Gym Mobile Application (2023)**
+- **Tech:** Flutter, SQLite  
+- Membership & session tracking with a clean mobile interface.
+
+### 🧩 **Enterprise Management System (2022)**
+- **Tech:** Java, MySQL  
+- Full CRUD operations, user management, and console/desktop interface.
+
+---
+
+## 🌟 **Personal Qualities**
 - Strong organizational skills  
-- Highly motivated and ambitious  
+- Highly motivated & ambitious  
 - Serious, optimistic, and autonomous  
 
 ---
 
-## 📫 Contact Me
+## 📫 **Contact Me**
+
 📍 Amiens, France  
 📞 +33 7 44 26 50 05  
 📧 ghilesdjennad2002@gmail.com  
