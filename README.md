@@ -75,8 +75,4 @@ I enjoy building meaningful projects that help me grow technically while solving
 
 📍 Amiens, France  
 📞 +33 7 44 26 50 05  
-📧 ghilesdjennad2002@gmail.com  
-
-🔗 **Portfolio:** https://my-portfolio2-ruby.vercel.app/
-🔗 **LinkedIn:** www.linkedin.com/in/ghiles-djennad-gd2002  
-🔗 **GitHub:** https://github.com/GhilesDjennad
+📧 ghilesdjennad2002@gmail.com
