@@ -44,26 +44,6 @@ I enjoy building meaningful projects that help me grow technically while solving
 
 ---
 
-## 🚀 **Recent Projects**
-
-### 📘 **Bookstore E-commerce Website (2025)**
-- **Tech:** Next.js, Supabase  
-- Product management, authentication, and modern UI design.
-
-### 🤟 **Sign Language to Text Translation (2025)**
-- **Tech:** Next.js, WebRTC, Socket.IO, Python, TensorFlow, MediaPipe  
-- Real-time subtitle generation using an **LSTM deep learning model**.
-
-### 📱 **Gym Mobile Application (2023)**
-- **Tech:** Flutter, SQLite  
-- Membership & session tracking with a clean mobile interface.
-
-### 🧩 **Enterprise Management System (2022)**
-- **Tech:** Java, MySQL  
-- Full CRUD operations, user management, and console/desktop interface.
-
----
-
 ## 🌟 **Personal Qualities**
 - Strong organizational skills  
 - Highly motivated & ambitious  
