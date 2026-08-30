@@ -1,11 +1,15 @@
 # 👋 Hi, I’m **Ghiles Djennad**
+
 🎓 **Master's student in Vision and Intelligent Machines** at Paris Cité University, France.  
 💻 Passionate about **Artificial Intelligence**, **Web Development** and **Mobile Development**.  
 I enjoy building meaningful projects that help me grow technically while solving real-world problems.
+
 ---
+
 ## 🔧 **Languages & Tools**
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-          
+
 <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -16,7 +20,6 @@ I enjoy building meaningful projects that help me grow technically while solving
 <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-                    
 <img alt="Socket.IO" width="40px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg"/>
 <img alt="Flutter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
@@ -26,10 +29,13 @@ I enjoy building meaningful projects that help me grow technically while solving
 <img alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img alt="Prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 </div>
-<br/>
+
 ---
+
 ## 🌟 **Personal Qualities**
+
 - Strong organizational skills  
 - Highly motivated & ambitious  
 - Serious, optimistic, and autonomous
